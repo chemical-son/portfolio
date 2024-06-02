@@ -1,0 +1,17 @@
+body{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.name{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+}
+.image{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
